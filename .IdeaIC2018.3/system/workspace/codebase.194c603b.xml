@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleLocalSettings">
+    <option name="myGradleHomes">
+      <map>
+        <entry key="$PROJECT_DIR$" value="C:\Program Files (x86)\gradle\gradle-5.1.1" />
+      </map>
+    </option>
+    <option name="myGradleVersions">
+      <map>
+        <entry key="$PROJECT_DIR$" value="5.1.1" />
+      </map>
+    </option>
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="codebase" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="codebase" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="1568142662265" />
+      </map>
+    </option>
+    <option name="projectBuildClasspath">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <ExternalProjectBuildClasspathPojo>
+              <option name="modulesBuildClasspath">
+                <map>
+                  <entry key="$PROJECT_DIR$">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="name" value="codebase" />
+              <option name="projectBuildClasspath">
+                <list>
+                  <option value="C:/Program Files (x86)/gradle/gradle-5.1.1/lib/ant-1.9.13.jar" />
+                  <option value="C:/Program Files (x86)/gradle/gradle-5.1.1/lib/ant-launcher-1.9.13.jar" />
+                  <option value="C:/Program Files (x86)/gradle/gradle-5.1.1/lib/gradle-api-metadata-5.1.1.jar" />
+                  <option value="C:/Program Files (x86)/gradle/gradle-5.1.1/lib/gradle-base-services-5.1.1.jar" />
+                  <option value="C:/Program Files (x86)/gradle/gradle-5.1.1/lib/gradle-base-services-groovy-5.1.1.jar" />
+                  <option value="C:/Program Files (x86)/gradle/gradle-5.1.1/lib/gradle-build-cache-5.1.1.jar" />
+                  <option value="C:/Program Files (x86)/gradle/gradle-5.1.1/lib/gradle-build-cache-packaging-5.1.1.jar" />
+                  <option value="C:/Program Files (x86)/gradle/gradle-5.1.1/lib/gradle-build-option-5.1.1.jar" />
+                  <option value="C:/Program Files (x86)/gradle/gradle-5.1.1/lib/gradle-cli-5.1.1.jar" />
+                  <option value="C:/Program Files (x86)/gradle/gradle-5.1.1/lib/gradle-core-5.1.1.jar" />
+                  <option value="C:/Program Files (x86)/gradle/gradle-5.1.1/lib/gradle-core-api-5.1.1.jar" />
+                  <option value="C:/Program Files (x86)/gradle/gradle-5.1.1/lib/gradle-docs-5.1.1.jar" />
+                  <option value="C:/Program Files (x86)/gradle/gradle-5.1.1/lib/gradle-execution-5.1.1.jar" />
+                  <option value="C:/Program Files (x86)/gradle/gradle-5.1.1/lib/gradle-files-5.1.1.jar" />
+                  <option value="C:/Program Files (x86)/gradle/gradle-5.1.1/lib/gradle-installation-beacon-5.1.1.jar" />
+                  <option value="C:/Program Files (x86)/gradle/gradle-5.1.1/lib/gradle-jvm-services-5.1.1.jar" />
+                  <option value="C:/Program Files (x86)/gradle/gradle-5.1.1/lib/gradle-kotlin-dsl-1.1.1.jar" />
+                  <option value="C:/Program Files (x86)/gradle/gradle-5.1.1/lib/gradle-kotlin-dsl-provider-plugins-1.1.1.jar" />
+                  <option value="C:/Program Files (x86)/gradle/gradle-5.1.1/lib/gradle-kotlin-dsl-tooling-builders-1.1.1.jar" />
+                  <option value="C:/Program Files (x86)/gradle/gradle-5.1.1/lib/gradle-kotlin-dsl-tooling-models-1.1.1.jar" />
+                  <option value="C:/Program Files (x86)/gradle/gradle-5.1.1/lib/gradle-launcher-5.1.1.jar" />
+                  <option value="C:/Program Files (x86)/gradle/gradle-5.1.1/lib/gradle-logging-5.1.1.jar" />
+                  <option value="C:/Program Files (x86)/gradle/gradle-5.1.1/lib/gradle-messaging-5.1.1.jar" />
+                  <option value="C:/Program Files (x86)/gradle/gradle-5.1.1/lib/gradle-model-core-5.1.1.jar" />
+                  <option value="C:/Program Files (x86)/gradle/gradle-5.1.1/lib/gradle-model-groovy-5.1.1.jar" />
+                  <option value="C:/Program Files (x86)/gradle/gradle-5.1.1/lib/gradle-native-5.1.1.jar" />
+                  <option value="C:/Program Files (x86)/gradle/gradle-5.1.1/lib/gradle-persistent-cache-5.1.1.jar" />
+                  <option value="C:/Program Files (x86)/gradle/gradle-5.1.1/lib/gradle-process-services-5.1.1.jar" />
+                  <option value="C:/Program Files (x86)/gradle/gradle-5.1.1/lib/gradle-resources-5.1.1.jar" />
+                  <option value="C:/Program Files (x86)/gradle/gradle-5.1.1/lib/gradle-runtime-api-info-5.1.1.jar" />
+                  <option value="C:/Program Files (x86)/gradle/gradle-5.1.1/lib/gradle-snapshots-5.1.1.jar" />
+                  <option value="C:/Program Files (x86)/gradle/gradle-5.1.1/lib/gradle-tooling-api-5.1.1.jar" />
+                  <option value="C:/Program Files (x86)/gradle/gradle-5.1.1/lib/gradle-wrapper-5.1.1.jar" />
+                  <option value="C:/Program Files (x86)/gradle/gradle-5.1.1/lib/groovy-all-1.0-2.5.4.jar" />
+                  <option value="C:/Program Files (x86)/gradle/gradle-5.1.1/lib/plugins/gradle-announce-5.1.1.jar" />
+                  <option value="C:/Program Files (x86)/gradle/gradle-5.1.1/lib/plugins/gradle-antlr-5.1.1.jar" />
+                  <option value="C:/Program Files (x86)/gradle/gradle-5.1.1/lib/plugins/gradle-build-cache-http-5.1.1.jar" />
+                  <option value="C:/Program Files (x86)/gradle/gradle-5.1.1/lib/plugins/gradle-build-comparison-5.1.1.jar" />
+                  <option value="C:/Program Files (x86)/gradle/gradle-5.1.1/lib/plugins/gradle-build-init-5.1.1.jar" />
+                  <option value="C:/Program Files (x86)/gradle/gradle-5.1.1/lib/plugins/gradle-build-profile-5.1.1.jar" />
+                  <option value="C:/Program Files (x86)/gradle/gradle-5.1.1/lib/plugins/gradle-code-quality-5.1.1.jar" />
+                  <option value="C:/Program Files (x86)/gradle/gradle-5.1.1/lib/plugins/gradle-composite-builds-5.1.1.jar" />
+                  <option value="C:/Program Files (x86)/gradle/gradle-5.1.1/lib/plugins/gradle-dependency-management-5.1.1.jar" />
+                  <option value="C:/Program Files (x86)/gradle/gradle-5.1.1/lib/plugins/gradle-diagnostics-5.1.1.jar" />
+                  <option value="C:/Program Files (x86)/gradle/gradle-5.1.1/lib/plugins/gradle-ear-5.1.1.jar" />
+                  <option value="C:/Program Files (x86)/gradle/gradle-5.1.1/lib/plugins/gradle-ide-5.1.1.jar" />
+                  <option value="C:/Program Files (x86)/gradle/gradle-5.1.1/lib/plugins/gradle-ide-native-5.1.1.jar" />
+                  <option value="C:/Program Files (x86)/gradle/gradle-5.1.1/lib/plugins/gradle-ide-play-5.1.1.jar" />
+                  <option value="C:/Program Files (x86)/gradle/gradle-5.1.1/lib/plugins/gradle-ivy-5.1.1.jar" />
+                  <option value="C:/Program Files (x86)/gradle/gradle-5.1.1/lib/plugins/gradle-jacoco-5.1.1.jar" />
+                  <option value="C:/Program Files (x86)/gradle/gradle-5.1.1/lib/plugins/gradle-javascript-5.1.1.jar" />
+                  <option value="C:/Program Files (x86)/gradle/gradle-5.1.1/lib/plugins/gradle-language-groovy-5.1.1.jar" />
+                  <option value="C:/Program Files (x86)/gradle/gradle-5.1.1/lib/plugins/gradle-language-java-5.1.1.jar" />
+                  <option value="C:/Program Files (x86)/gradle/gradle-5.1.1/lib/plugins/gradle-language-jvm-5.1.1.jar" />
+                  <option value="C:/Program Files (x86)/gradle/gradle-5.1.1/lib/plugins/gradle-language-native-5.1.1.jar" />
+                  <option value="C:/Program Files (x86)/gradle/gradle-5.1.1/lib/plugins/gradle-language-scala-5.1.1.jar" />
+                  <option value="C:/Program Files (x86)/gradle/gradle-5.1.1/lib/plugins/gradle-maven-5.1.1.jar" />
+                  <option value="C:/Program Files (x86)/gradle/gradle-5.1.1/lib/plugins/gradle-osgi-5.1.1.jar" />
+                  <option value="C:/Program Files (x86)/gradle/gradle-5.1.1/lib/plugins/gradle-platform-base-5.1.1.jar" />
+                  <option value="C:/Program Files (x86)/gradle/gradle-5.1.1/lib/plugins/gradle-platform-jvm-5.1.1.jar" />
+                  <option value="C:/Program Files (x86)/gradle/gradle-5.1.1/lib/plugins/gradle-platform-native-5.1.1.jar" />
+                  <option value="C:/Program Files (x86)/gradle/gradle-5.1.1/lib/plugins/gradle-platform-play-5.1.1.jar" />
+                  <option value="C:/Program Files (x86)/gradle/gradle-5.1.1/lib/plugins/gradle-plugin-development-5.1.1.jar" />
+                  <option value="C:/Program Files (x86)/gradle/gradle-5.1.1/lib/plugins/gradle-plugin-use-5.1.1.jar" />
+                  <option value="C:/Program Files (x86)/gradle/gradle-5.1.1/lib/plugins/gradle-plugins-5.1.1.jar" />
+                  <option value="C:/Program Files (x86)/gradle/gradle-5.1.1/lib/plugins/gradle-publish-5.1.1.jar" />
+                  <option value="C:/Program Files (x86)/gradle/gradle-5.1.1/lib/plugins/gradle-reporting-5.1.1.jar" />
+                  <option value="C:/Program Files (x86)/gradle/gradle-5.1.1/lib/plugins/gradle-resources-gcs-5.1.1.jar" />
+                  <option value="C:/Program Files (x86)/gradle/gradle-5.1.1/lib/plugins/gradle-resources-http-5.1.1.jar" />
+                  <option value="C:/Program Files (x86)/gradle/gradle-5.1.1/lib/plugins/gradle-resources-s3-5.1.1.jar" />
+                  <option value="C:/Program Files (x86)/gradle/gradle-5.1.1/lib/plugins/gradle-resources-sftp-5.1.1.jar" />
+                  <option value="C:/Program Files (x86)/gradle/gradle-5.1.1/lib/plugins/gradle-scala-5.1.1.jar" />
+                  <option value="C:/Program Files (x86)/gradle/gradle-5.1.1/lib/plugins/gradle-signing-5.1.1.jar" />
+                  <option value="C:/Program Files (x86)/gradle/gradle-5.1.1/lib/plugins/gradle-test-kit-5.1.1.jar" />
+                  <option value="C:/Program Files (x86)/gradle/gradle-5.1.1/lib/plugins/gradle-testing-base-5.1.1.jar" />
+                  <option value="C:/Program Files (x86)/gradle/gradle-5.1.1/lib/plugins/gradle-testing-junit-platform-5.1.1.jar" />
+                  <option value="C:/Program Files (x86)/gradle/gradle-5.1.1/lib/plugins/gradle-testing-jvm-5.1.1.jar" />
+                  <option value="C:/Program Files (x86)/gradle/gradle-5.1.1/lib/plugins/gradle-testing-native-5.1.1.jar" />
+                  <option value="C:/Program Files (x86)/gradle/gradle-5.1.1/lib/plugins/gradle-tooling-api-builders-5.1.1.jar" />
+                  <option value="C:/Program Files (x86)/gradle/gradle-5.1.1/lib/plugins/gradle-tooling-native-5.1.1.jar" />
+                  <option value="C:/Program Files (x86)/gradle/gradle-5.1.1/lib/plugins/gradle-version-control-5.1.1.jar" />
+                  <option value="C:/Program Files (x86)/gradle/gradle-5.1.1/lib/plugins/gradle-workers-5.1.1.jar" />
+                  <option value="C:/Program Files (x86)/gradle/gradle-5.1.1/lib/plugins/ivy-2.3.0.jar" />
+                </list>
+              </option>
+            </ExternalProjectBuildClasspathPojo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../Backend" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Chips" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Chips_Projet/mmp-backend" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+      </map>
+    </option>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="mySelectedTabIndex" value="-1" />
+  </component>
+</project>
