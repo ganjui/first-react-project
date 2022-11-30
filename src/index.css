@@ -1,0 +1,47 @@
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+body{
+  align-items: center;
+  position: center;
+  background-color: aqua;
+  margin-left: 200px;
+}
+
+header{
+  height: 200px;
+  font-style: italic;
+ 
+}
+.navbar{
+ padding: 10px;
+  align-items: right;
+} 
+
+
+.nav{
+  display: flex;
+  justify-content: space-between;
+}
+
+.nav-items{
+  display: flex;
+  list-style: none;
+  align-items: right;
+}
+
+.nav-items > li {
+  padding: 10px;
+  align-items: right;
+}
+
+footer {
+  position: relative;
+  text-align: left;
+  color:blueviolet;
+  background-color: brown;
+}
+
