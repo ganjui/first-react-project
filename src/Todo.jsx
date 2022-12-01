@@ -16,8 +16,8 @@ class TodoList extends React.Component {
             </button>
             <button type="button" className="btn btn__danger">
               Delete <span className="visually-hidden"></span>
-                                </button>
-                                <button type="button" className="btn btn__danger">
+            </button>
+            <button type="button" className="btn btn__danger">
               Complete <span className="visually-hidden"></span>
             </button>
           </div>
