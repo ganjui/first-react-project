@@ -59,7 +59,7 @@ class Todo extends React.Component {
 
      handleSubmit(e) {
         e.preventDefault();
-        if (this.state.text.length === 0) {
+        if (this.state.text.length == 0) {
             return;
         }
         const newItem = {
