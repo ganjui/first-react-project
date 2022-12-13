@@ -2,7 +2,7 @@ version: 0.0
 os: linux
 files:
   - source: public/index.html
-    destination: /var/www/html/
+    destination: /var/www/html/TodoApp
 hooks:
   BeforeInstall:
     - location: scripts/install_dependencies.sh
